@@ -1,0 +1,545 @@
+[
+  {
+    "Id": "profile_bd83-7f95-9b20-3b25",
+    "Name": "Astorath",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1432"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4508"
+      },
+      {
+        "Id": "rule_4509"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "d655-eefd-e172-20ae"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_6f69-eb86-620f-80c",
+    "Name": "Baal Predator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1433"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4511"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "b5db-e041-7cef-e591"
+      },
+      {
+        "Id": "equipment_1764757958931"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_5bf5-5db9-18d4-55d1",
+    "Name": "Chief Librarian Mephiston",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1434"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4523",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_4524",
+        "Info": "(Aura, Psychic)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "eb07-22b3-d1eb-7552"
+      },
+      {
+        "Id": "9fcd-a0d8-4804-c08a"
+      },
+      {
+        "Id": "equipment_1764756803049"
+      },
+      {
+        "Id": "equipment_1764756839013"
+      },
+      {
+        "Id": "3da4-7876-bd83-6904"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_b450-c96f-6de3-ce60",
+    "Name": "Commander Dante",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1435"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4527"
+      },
+      {
+        "Id": "rule_4526"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "8a9c-58f8-e882-c7d"
+      },
+      {
+        "Id": "49e5-830e-9a2d-1b9a"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_4d41-5eed-844a-2b1c",
+    "Name": "Death Company Marines with Jump Pack",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1436"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4573"
+      },
+      {
+        "Id": "rule_4533"
+      },
+      {
+        "Id": "d928-3007-aed9-1b7d"
+      },
+      {
+        "Id": "equipment_1777988892574"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_f844-d1c0-c50d-cfa0",
+    "Name": "Lemartes",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1437"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4540"
+      },
+      {
+        "Id": "rule_4541"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "2cbf-d021-e04e-31e4"
+      },
+      {
+        "Id": "13fa-271d-cece-f0b6"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_d95e-595c-4f55-49ce",
+    "Name": "Sanguinary Guard",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1438"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2318"
+      },
+      {
+        "Id": "rule_4545"
+      },
+      {
+        "Id": "rule_4546"
+      },
+      {
+        "Id": "13c6-39cb-bc57-3ee0"
+      },
+      {
+        "Id": "5315-e49c-146b-c157"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_4aba-1b11-e595-e9c9",
+    "Name": "Sanguinary Priest",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1439"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4549"
+      },
+      {
+        "Id": "rule_4550"
+      },
+      {
+        "Id": "equipment_1777884187468"
+      },
+      {
+        "Id": "equipment_1777884264805"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_afc7-e00f-adf2-3858",
+    "Name": "The Sanguinor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1440"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4552",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_4553"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "65a-5211-e46e-2a8f"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_2904-9a20-a6eb-83dc",
+    "Name": "Blood Angels Captain",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1441"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2313"
+      },
+      {
+        "Id": "rule_2314"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "d928-3007-aed9-1b7d"
+      },
+      {
+        "Id": "1077-f195-c047-6ef0"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_75c4-36b0-af42-362b",
+    "Name": "Death Company Captain",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1442"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_4561"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4562"
+      },
+      {
+        "Id": "rule_4573"
+      },
+      {
+        "Id": "rule_4563"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "87ae-2329-48ed-fb7d"
+      },
+      {
+        "Id": "1077-f195-c047-6ef0"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_7c67-3ef1-6e01-f830",
+    "Name": "Death Company Captain with Jump Pack",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1443"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_4566"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4565"
+      },
+      {
+        "Id": "rule_4573"
+      },
+      {
+        "Id": "rule_4564"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "87ae-2329-48ed-fb7d"
+      },
+      {
+        "Id": "equipment_1777883921705"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_718f-8d09-7529-a59d",
+    "Name": "Death Company Marines with Bolt Rifle",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1444"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4573"
+      },
+      {
+        "Id": "rule_4574"
+      },
+      {
+        "Id": "equipment_1764758573635"
+      },
+      {
+        "Id": "f983-e976-63ef-aa4a"
+      },
+      {
+        "Id": "c018-a904-2473-3658"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_c34d-a6ef-672d-eaff",
+    "Name": "Death Company Marine",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1445"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4573"
+      },
+      {
+        "Id": "rule_4568"
+      },
+      {
+        "Id": "953a-4af0-c692-02ca"
+      },
+      {
+        "Id": "equipment_1777988892574"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_938d-28a6-8b07-8cc6",
+    "Name": "Death Company Dreadnought",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1446"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4573"
+      },
+      {
+        "Id": "rule_4570"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "equipment_1764758133792"
+      },
+      {
+        "Id": "equipment_1764758084536"
+      },
+      {
+        "Id": "357f-2185-ff05-ec9f"
+      },
+      {
+        "Id": "63ed-fe1c-b631-0f2f"
+      }
+    ],
+    "BaseId": "21"
+  }
+]
