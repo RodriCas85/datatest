@@ -1,0 +1,394 @@
+[
+  {
+    "Id": "profile_aeb4-b4da-9ad8-5d91",
+    "Name": "Captain Sicarius",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3974"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2318"
+      },
+      {
+        "Id": "rule_4047"
+      },
+      {
+        "Id": "rule_4048"
+      },
+      {
+        "Id": "c943-6018-ba17-c608"
+      },
+      {
+        "Id": "701b-551d-5480-eb67"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_9080-53c7-c334-b989",
+    "Name": "Chief Librarian Tigurius",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3975"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4053"
+      },
+      {
+        "Id": "rule_4054",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "7bc6-60c6-7a7-7508"
+      },
+      {
+        "Id": "dcf9-9637-5df4-dc5e"
+      },
+      {
+        "Id": "72f9-1db7-ac4d-9fe2"
+      },
+      {
+        "Id": "969e-a31a-4eb6-4f0c"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_dd59-fc60-ed57-4936",
+    "Name": "Marneus Calgar",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3976"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2318"
+      },
+      {
+        "Id": "rule_4056"
+      },
+      {
+        "Id": "rule_4057"
+      },
+      {
+        "Id": "rule_4058"
+      },
+      {
+        "Id": "118c-765f-f6a9-c983"
+      },
+      {
+        "Id": "d126-71fe-a7b1-b32e"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_f7d-cd2b-639b-4c7e",
+    "Name": "Roboute Guilliman",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3977"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4060"
+      },
+      {
+        "Id": "rule_4061"
+      },
+      {
+        "Id": "rule_4062"
+      },
+      {
+        "Id": "rule_4063"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "43b-1aed-6bc4-104b"
+      },
+      {
+        "Id": "88e5-f730-d6b0-c0a3"
+      },
+      {
+        "Id": "f92b-1723-5e5c-c3e7"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_3672-effe-fc09-22c6",
+    "Name": "Uriel Ventris",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3978"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4070"
+      },
+      {
+        "Id": "rule_4071"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "7bc6-60c6-7a7-7508"
+      },
+      {
+        "Id": "4cb0-a88c-49d-9fed"
+      },
+      {
+        "Id": "d4e6-f626-278e-7bc6"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_d094-610c-5bab-b5f7",
+    "Name": "Lieutenant Titus",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3979"
+      },
+      {
+        "Id": "rule_12"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4077"
+      },
+      {
+        "Id": "rule_4078"
+      },
+      {
+        "Id": "f1ae-8418-797a-6ab1"
+      },
+      {
+        "Id": "equipment_1764242861327"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_ec73-f97f-82e3-8259",
+    "Name": "Marneus Calgar in Armour of Antilochus",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3980"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4080"
+      },
+      {
+        "Id": "rule_4081"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "118c-765f-f6a9-c983"
+      },
+      {
+        "Id": "d126-71fe-a7b1-b32e"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_faac-4a1c-d55d-e187",
+    "Name": "Cato Sicarius",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3981"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4083"
+      },
+      {
+        "Id": "rule_4084"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "c943-6018-ba17-c608"
+      },
+      {
+        "Id": "0964-f809-a007-1562"
+      },
+      {
+        "Id": "268a-95b8-a801-91eb"
+      },
+      {
+        "Id": "84a3-a338-13a7-4dac"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1770812888565",
+    "Name": "Captain Titus",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1770812898516"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4077"
+      },
+      {
+        "Id": "rules_1770813122231"
+      },
+      {
+        "Id": "7bc6-60c6-7a7-7508"
+      },
+      {
+        "Id": "equipment_1770813263462"
+      },
+      {
+        "Id": "equipment_1770813366408"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1770986907055",
+    "Name": "Victrix Honour Guard",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1770986821332"
+      },
+      {
+        "Id": "8782-c965-4294-6766"
+      },
+      {
+        "Id": "rule_2514"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771501857693",
+    "Name": "Chapter Ancient",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1770986821332"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rules_1771501782056"
+      },
+      {
+        "Id": "rules_1771501795206"
+      },
+      {
+        "Id": "rule_4086"
+      },
+      {
+        "Id": "equipment_1771502027602"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771502089645",
+    "Name": "Chapter Champion",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1770986821332"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rules_1771501782056"
+      },
+      {
+        "Id": "rules_1771501795206"
+      },
+      {
+        "Id": "8fd1-4cc9-f25e-92af"
+      }
+    ]
+  }
+]

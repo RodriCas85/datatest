@@ -1,0 +1,3748 @@
+[
+  {
+    "Id": "profile_40f5-13d4-d77d-52a7",
+    "Name": "Captain in Gravis Armour",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3113"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2313"
+      },
+      {
+        "Id": "rule_2072"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "1581-69b-5b7b-d849"
+      },
+      {
+        "Id": "7bf3-e01c-dce7-60fd"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_297c-6f4c-6a43-8e77",
+    "Name": "Captain in Phobos Armour",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3114"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2313"
+      },
+      {
+        "Id": "rule_2075"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "equipment_1777537524251"
+      },
+      {
+        "Id": "4338-18dc-f755-30e2"
+      },
+      {
+        "Id": "a448-19a4-3517-ccea"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_e8cd-c890-3224-23fc",
+    "Name": "Captain in Terminator Armour",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3115"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2313"
+      },
+      {
+        "Id": "rules_1777539485228"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "5f7a-ff26-584b-8355"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_d050-c055-7f4-9bbc",
+    "Name": "Captain with Jump Pack",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3116"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2079"
+      },
+      {
+        "Id": "rule_2313"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "equipment_1773681375792"
+      },
+      {
+        "Id": "13ab-de96-f3de-174e"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_82a7-522d-d5e7-a2f1",
+    "Name": "Intercessor Sergeant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3117"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2081"
+      },
+      {
+        "Id": "rules_1784793797913",
+        "Info": ""
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "837b-6918-767-152b"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_c452-96dd-d3b5-f0fe",
+    "Name": "Infernus Marine",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3118"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2083"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "26cd-dd97-8f25-7ea7"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_0f11-fbd6-b3b3-c674",
+    "Name": "Assault Intercessor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3119"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2084"
+      },
+      {
+        "Id": "13ab-de96-f3de-174e"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_3a3e-487a-7e5f-40f5",
+    "Name": "Heavy Intercessor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3120"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2085"
+      },
+      {
+        "Id": "7305-cc13-aeed-5de0"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "f4f9-d665-21c1-2727"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_cf3c-2180-6232-e4e3",
+    "Name": "Infiltrator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3121"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2086"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "c96a-77fd-1672-18dc"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_fb81-ddcc-8458-a708",
+    "Name": "Incursor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3122"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2089"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "f5b6-1c6f-a53a-66a1"
+      },
+      {
+        "Id": "10da-30e5-e130-efac"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_35ba-fa6d-d9e3-ee28",
+    "Name": "Tactical Marine",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3123"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2091"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "4540-ab37-18b4-3e56"
+      },
+      {
+        "Id": "83d0-18be-e1c5-72c5"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_7f66-ba3e-d54e-8080",
+    "Name": "Scout",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3124"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2092"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "4540-ab37-18b4-3e56"
+      },
+      {
+        "Id": "83d0-18be-e1c5-72c5"
+      }
+    ],
+    "BaseId": "8"
+  },
+  {
+    "Id": "profile_e234-7a6-1f3f-af1b",
+    "Name": "Bladeguard Veteran",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3125"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2094"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "d989-8a4a-5e97-76e3"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_74c0-920c-7e9c-78d0",
+    "Name": "Vanguard Veteran with Jump Packs",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3126"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2095"
+      },
+      {
+        "Id": "ca66-54e3-a097-55b0"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_869f-21c3-df3a-8d23",
+    "Name": "Sternguard Veteran",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1777974907787"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2102"
+      },
+      {
+        "Id": "89ed-d67-d36e-8acf"
+      },
+      {
+        "Id": "6b39-9fea-b6a6-65b0"
+      },
+      {
+        "Id": "equipment_1773683722796"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_416b-4ee9-e9dc-52a1",
+    "Name": "Reiver",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3127"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2103"
+      },
+      {
+        "Id": "rule_2104"
+      },
+      {
+        "Id": "2bfe-7c74-7b70-a846"
+      },
+      {
+        "Id": "23cb-a1c9-87be-722d"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_1e1c-d08e-8203-4145",
+    "Name": "Aggressor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3128"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2107"
+      },
+      {
+        "Id": "dcee-66cc-b8c2-b464"
+      },
+      {
+        "Id": "8f43-5a49-353f-70a4"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_a844-5297-7c96-b7f3",
+    "Name": "Terminator Assault",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3129"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2108"
+      },
+      {
+        "Id": "rule_2109"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_956"
+      },
+      {
+        "Id": "equipment_1777976753303"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_e4e4-d387-2a8c-fb7f",
+    "Name": "Terminator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3130"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2112"
+      },
+      {
+        "Id": "rule_2113"
+      },
+      {
+        "Id": "83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "3a24-34af-7558-5365"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_5aec-bd76-3934-f9cf",
+    "Name": "Assault Centurion",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3131"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2116"
+      },
+      {
+        "Id": "ff26-fcab-318-9503"
+      },
+      {
+        "Id": "3ed8-a231-10ff-1ec6"
+      },
+      {
+        "Id": "ac05-6770-362b-2f97"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_6c47-af2d-4505-bc2",
+    "Name": "Devastator Centurion",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3132"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2119"
+      },
+      {
+        "Id": "0c7a-9ea1-abdc-2b6e"
+      },
+      {
+        "Id": "ff26-fcab-318-9503"
+      },
+      {
+        "Id": "bc41-607a-40a8-67fe"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_df61-85d7-8976-f520",
+    "Name": "Invictor Tactical Warsuit",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3133"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "8\""
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2120"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "8a25-cfb6-8821-81ac"
+      },
+      {
+        "Id": "equipment_1771581687369"
+      },
+      {
+        "Id": "39aa-eedf-b708-d095"
+      },
+      {
+        "Id": "d066-efef-7153-fb0"
+      },
+      {
+        "Id": "69c8-9e7f-f7ae-b926"
+      }
+    ],
+    "BaseId": "21"
+  },
+  {
+    "Id": "profile_9a87-d44-14c0-3ef9",
+    "Name": "Dreadnought",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3134"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2121"
+      },
+      {
+        "Id": "229a-6aa7-98d9-234d"
+      },
+      {
+        "Id": "83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "cf7c-9c6f-3235-6c6d"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_fb8b-9d5e-93cb-e1d5",
+    "Name": "Redemptor Dreadnought",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3135"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2124"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "1dcf-9522-85c0-2605"
+      },
+      {
+        "Id": "8158-c8b3-6940-5199"
+      },
+      {
+        "Id": "9a6f-e83b-69b1-8dbf"
+      },
+      {
+        "Id": "9c53-a84a-fc78-d05d"
+      }
+    ],
+    "BaseId": "21"
+  },
+  {
+    "Id": "profile_96f7-307-efa6-dd1a",
+    "Name": "Ballistus Dreadnought",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3136"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2125"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "ce22-d3da-1a2c-5f7d"
+      },
+      {
+        "Id": "da5f-e066-8aba-9ad3"
+      },
+      {
+        "Id": "2287-43aa-c7e1-7846"
+      },
+      {
+        "Id": "27cb-34a-cb99-600b"
+      },
+      {
+        "Id": "6962-59e-aca0-d93d"
+      }
+    ],
+    "BaseId": "21"
+  },
+  {
+    "Id": "profile_7f57-4ff2-3b71-eafb",
+    "Name": "Brutalis Dreadnought",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3137"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2126"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "3204-5fbd-c5a5-1bf9"
+      },
+      {
+        "Id": "edd0-6f1c-83e7-c0ea"
+      },
+      {
+        "Id": "a8fd-bc3b-b629-e6a4"
+      },
+      {
+        "Id": "bf72-380a-edcf-816a"
+      }
+    ],
+    "BaseId": "21"
+  },
+  {
+    "Id": "profile_9db4-ab00-11a5-2f71",
+    "Name": "Invader ATV",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3138"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2131"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "c221-788f-ced8-2"
+      },
+      {
+        "Id": "a084-430f-5fb6-6ef2"
+      },
+      {
+        "Id": "965e-b65e-20a1-32da"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_b3ee-ece5-49fd-a331",
+    "Name": "Outrider",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3139"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2132"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      },
+      {
+        "Id": "c221-788f-ced8-2"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      }
+    ],
+    "BaseId": "24"
+  },
+  {
+    "Id": "profile_630b-9ed-631b-ab42",
+    "Name": "Suppressor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3140"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2136"
+      },
+      {
+        "Id": "221f-e77a-2cff-9a21"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_5312-808e-3c1d-870e",
+    "Name": "Inceptor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3141"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2137"
+      },
+      {
+        "Id": "8a8e-4ca5-7864-3b9d"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_d356-1cb5-3615-f07b",
+    "Name": "Storm Speeder Hailstrike",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3142"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2138"
+      },
+      {
+        "Id": "8a25-cfb6-8821-81ac"
+      },
+      {
+        "Id": "a084-430f-5fb6-6ef2"
+      },
+      {
+        "Id": "d066-efef-7153-fb0"
+      },
+      {
+        "Id": "equipment_1773683722796"
+      }
+    ],
+    "BaseId": "21"
+  },
+  {
+    "Id": "profile_aec4-f7f1-ebca-121a",
+    "Name": "Storm Speeder Thunderstrike",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3143"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2139"
+      },
+      {
+        "Id": "2ea7-6023-fab1-6dd1"
+      },
+      {
+        "Id": "a41-9481-1072-9945"
+      },
+      {
+        "Id": "9a1d-766d-a731-d8bf"
+      },
+      {
+        "Id": "equipment_1773683722796"
+      }
+    ],
+    "BaseId": "21"
+  },
+  {
+    "Id": "profile_3edc-6e58-1e09-e9e1",
+    "Name": "Storm Speeder Hammerstrike",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3144"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2140"
+      },
+      {
+        "Id": "5205-e2ff-20db-80d5"
+      },
+      {
+        "Id": "71a-8ffa-6752-a714"
+      },
+      {
+        "Id": "6dc4-a0f0-ae2d-5aa1"
+      },
+      {
+        "Id": "equipment_1773683722796"
+      }
+    ],
+    "BaseId": "21"
+  },
+  {
+    "Id": "profile_e833-0740-667f-8f33",
+    "Name": "Hellblaster",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3145"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2144"
+      },
+      {
+        "Id": "261b-f672-2999-265f"
+      },
+      {
+        "Id": "a039-cb1b-3837-ba8b"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_58d1-ca8c-a173-a1f2",
+    "Name": "Eliminator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3146"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2145"
+      },
+      {
+        "Id": "rule_2146"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "fb52-d382-545d-d0ee"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_f433-7a0d-99a0-7441",
+    "Name": "Eradicator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3147"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2147"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "ad4f-1356-e068-ec64"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_1048-84d6-7df3-987c",
+    "Name": "Devastator Squad",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3148"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2148"
+      },
+      {
+        "Id": "rule_2149"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "4540-ab37-18b4-3e56"
+      },
+      {
+        "Id": "23be-25e0-7210-cb7f"
+      },
+      {
+        "Id": "b571-8d2f-955c-afcf"
+      },
+      {
+        "Id": "fc24-2614-78cd-5f41"
+      },
+      {
+        "Id": "993e-bdb2-3ac6-f11b"
+      },
+      {
+        "Id": "19fd-be3c-6dc3-99b1"
+      },
+      {
+        "Id": "b0a0-f1de-47ff-7639"
+      },
+      {
+        "Id": "aaae-ac24-a298-a515"
+      },
+      {
+        "Id": "7ab4-28bd-f037-6ac8"
+      },
+      {
+        "Id": "c903-8cbf-c0eb-edf3"
+      },
+      {
+        "Id": "2d27-a709-86e6-ee88"
+      },
+      {
+        "Id": "4a80-2594-8839-c0bf"
+      },
+      {
+        "Id": "5edb-fb23-55e8-8415"
+      },
+      {
+        "Id": "83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "a474-3508-518d-1582"
+      },
+      {
+        "Id": "f4f9-d665-21c1-2727"
+      },
+      {
+        "Id": "0f7e-39a9-fc61-122a"
+      },
+      {
+        "Id": "8f2f-6d13-36c5-eded"
+      },
+      {
+        "Id": "3b63-a16a-2b44-553a"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_803a-43c4-5259-1f02",
+    "Name": "Desolation Marine",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3149"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2150"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "47b3-3be5-84dd-88a3"
+      },
+      {
+        "Id": "eed7-334c-4e6c-69db"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_78c1-7e1c-2aad-7b49",
+    "Name": "Firestrike Servo-Turrets",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3150"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2153"
+      },
+      {
+        "Id": "afca-96a9-cd18-8ef3"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ],
+    "BaseId": "16"
+  },
+  {
+    "Id": "profile_9e2d-50b1-7bd0-bd62",
+    "Name": "Whirlwind",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3151"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2156"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "2921-92d1-23c5-fdba"
+      },
+      {
+        "Id": "c81b-a87b-817e-44a0"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_f2b8-bb29-706b-31ac",
+    "Name": "Predator Destructor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3152"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2157"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "ac33-1ca9-dc11-ef57"
+      },
+      {
+        "Id": "c81b-a87b-817e-44a0"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_24ea-5031-6bc9-1ecc",
+    "Name": "Predator Annihilator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3153"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2158"
+      },
+      {
+        "Id": "4824-cbbf-da31-ce1f"
+      },
+      {
+        "Id": "c81b-a87b-817e-44a0"
+      },
+      {
+        "Id": "11a9-2c2b-fbea-4bbc"
+      },
+      {
+        "Id": "equipment_1771582024908"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_5afa-5e12-5967-eb9a",
+    "Name": "Gladiator Lancer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1770379233355"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2159"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "e050-2043-d7d-7c2a"
+      },
+      {
+        "Id": "c387-f167-8913-822c"
+      },
+      {
+        "Id": "9111-913e-ec42-e830"
+      },
+      {
+        "Id": "83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "b695-6a40-93a3-f048"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_d0dc-caa9-5ff8-a958",
+    "Name": "Gladiator Reaper",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1770379233355"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2160"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "741c-5553-af97-f635"
+      },
+      {
+        "Id": "3638-3e0-a9c7-cb19"
+      },
+      {
+        "Id": "b695-6a40-93a3-f048"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_5cfe-44bf-cf-26",
+    "Name": "Gladiator Valiant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1770379233355"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2161"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "e7ca-a953-c254-dc54"
+      },
+      {
+        "Id": "2d1d-ff49-52e8-cb66"
+      },
+      {
+        "Id": "b695-6a40-93a3-f048"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_fb7-61b7-47e1-2cc7",
+    "Name": "Vindicator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3154"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2162"
+      },
+      {
+        "Id": "3de5-feab-a65c-cfff"
+      },
+      {
+        "Id": "c81b-a87b-817e-44a0"
+      },
+      {
+        "Id": "11a9-2c2b-fbea-4bbc"
+      },
+      {
+        "Id": "equipment_1771582024908"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_7087-903a-9e9b-c3a0",
+    "Name": "Land Raider",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1777895162858"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2163"
+      },
+      {
+        "Id": "rule_2320"
+      },
+      {
+        "Id": "f8ef-356a-222-f593"
+      },
+      {
+        "Id": "edd0-6f1c-83e7-c0ea"
+      },
+      {
+        "Id": "5346-57b-924-13b4"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_bb59-4663-434b-2613",
+    "Name": "Land Raider Crusader",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1777895162858"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2166"
+      },
+      {
+        "Id": "rule_2320"
+      },
+      {
+        "Id": "3833-b04c-f6d3-ab5e"
+      },
+      {
+        "Id": "e305-23e6-6fd3-ac5f"
+      },
+      {
+        "Id": "5346-57b-924-13b4"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_8cc5-a000-2be1-39f3",
+    "Name": "Land Raider Redeemer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1777895162858"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2168"
+      },
+      {
+        "Id": "rule_2320"
+      },
+      {
+        "Id": "b61e-d7bc-b6ec-6313"
+      },
+      {
+        "Id": "e305-23e6-6fd3-ac5f"
+      },
+      {
+        "Id": "5346-57b-924-13b4"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_6541-b24d-7acc-b9a3",
+    "Name": "Repulsor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1777973928566"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2169"
+      },
+      {
+        "Id": "rule_2170"
+      },
+      {
+        "Id": "rule_2320"
+      },
+      {
+        "Id": "9a6f-e83b-69b1-8dbf"
+      },
+      {
+        "Id": "c3b3-f891-40ad-6de8"
+      },
+      {
+        "Id": "f776-7c89-6b0-5263"
+      },
+      {
+        "Id": "edd0-6f1c-83e7-c0ea"
+      },
+      {
+        "Id": "b45e-46d1-f4fc-bbea"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_33ad-c1a4-8f39-6ea4",
+    "Name": "Repulsor Executioner",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1777973928566"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2172"
+      },
+      {
+        "Id": "rule_2320"
+      },
+      {
+        "Id": "9a6f-e83b-69b1-8dbf"
+      },
+      {
+        "Id": "e54-149a-9924-afe"
+      },
+      {
+        "Id": "256a-8119-50f8-259"
+      },
+      {
+        "Id": "d049-6fe0-3979-57f5"
+      },
+      {
+        "Id": "edd0-6f1c-83e7-c0ea"
+      },
+      {
+        "Id": "3204-5fbd-c5a5-1bf9"
+      },
+      {
+        "Id": "b45e-46d1-f4fc-bbea"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_a16f-aa2e-3271-22dc",
+    "Name": "Rhino",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1777887369202"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_31",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2173"
+      },
+      {
+        "Id": "83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "c81b-a87b-817e-44a0"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_51f8-f329-7ded-6bb5",
+    "Name": "Razorback",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1777887030784"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2175"
+      },
+      {
+        "Id": "edd0-6f1c-83e7-c0ea"
+      },
+      {
+        "Id": "c81b-a87b-817e-44a0"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_2dc8-b989-a231-bb82",
+    "Name": "Impulsor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1773682709093"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_31",
+        "Info": "6"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2178"
+      },
+      {
+        "Id": "rule_2177"
+      },
+      {
+        "Id": "83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "b695-6a40-93a3-f048"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_ee20-cb85-cdc2-d5df",
+    "Name": "Drop Pod",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3155"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2181"
+      },
+      {
+        "Id": "rule_2183"
+      },
+      {
+        "Id": "rule_2184"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_ab90-748f-792a-c2d3",
+    "Name": "Stormhawk Interceptor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3156"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2187"
+      },
+      {
+        "Id": "410f-ad6b-ed28-12e7"
+      },
+      {
+        "Id": "6db-ca18-36bb-d8d8"
+      },
+      {
+        "Id": "e95d-5335-b730-da78"
+      },
+      {
+        "Id": "e305-23e6-6fd3-ac5f"
+      },
+      {
+        "Id": "edd0-6f1c-83e7-c0ea"
+      },
+      {
+        "Id": "8c1-7a89-b8c8-926"
+      },
+      {
+        "Id": "a218-d637-231e-c466"
+      },
+      {
+        "Id": "4c32-80fc-7038-7980"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_60d6-d072-4a97-5de",
+    "Name": "Stormtalon Gunship",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3157"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_28"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2188"
+      },
+      {
+        "Id": "eeec-f7ed-31a1-0845"
+      },
+      {
+        "Id": "e305-23e6-6fd3-ac5f"
+      },
+      {
+        "Id": "edd0-6f1c-83e7-c0ea"
+      },
+      {
+        "Id": "a57b-cba0-79c1-5d71"
+      },
+      {
+        "Id": "8c1-7a89-b8c8-926"
+      },
+      {
+        "Id": "a218-d637-231e-c466"
+      },
+      {
+        "Id": "4c32-80fc-7038-7980"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_b6bd-6f50-ef5c-b0b0",
+    "Name": "Stormraven Gunship",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3158"
+      },
+      {
+        "Id": "rule_28"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_2320"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2189"
+      },
+      {
+        "Id": "rule_2190"
+      },
+      {
+        "Id": "ebc0-7394-7e25-3c4a"
+      },
+      {
+        "Id": "3833-b04c-f6d3-ab5e"
+      },
+      {
+        "Id": "e305-23e6-6fd3-ac5f"
+      },
+      {
+        "Id": "edd0-6f1c-83e7-c0ea"
+      },
+      {
+        "Id": "fa29-4109-9b58-bfd1"
+      },
+      {
+        "Id": "359b-684e-a4-1da5"
+      },
+      {
+        "Id": "a57b-cba0-79c1-5d71"
+      },
+      {
+        "Id": "5eb7-47-da8a-4283"
+      },
+      {
+        "Id": "8c1-7a89-b8c8-926"
+      },
+      {
+        "Id": "a218-d637-231e-c466"
+      },
+      {
+        "Id": "4c32-80fc-7038-7980"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_2932-2aeb-cc06-726c",
+    "Name": "Hammerfall Bunker",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3159"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_2319"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2191"
+      },
+      {
+        "Id": "rule_2192"
+      },
+      {
+        "Id": "1d61-c110-3d-794e"
+      },
+      {
+        "Id": "fcca-3ca0-6559-d0c1"
+      },
+      {
+        "Id": "3575-9453-bc40-1166"
+      },
+      {
+        "Id": "8f2f-8aa6-52e3-121d"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_1ff2-cb28-a9a8-5ca",
+    "Name": "Lieutenant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3160"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2316"
+      },
+      {
+        "Id": "rule_2321"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "equipment_1773680848887"
+      },
+      {
+        "Id": "f4f9-d665-21c1-2727"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_a3ec-a5d8-9872-1ae2",
+    "Name": "Lieutenant in Reiver Armour",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3161"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2316"
+      },
+      {
+        "Id": "rule_2197"
+      },
+      {
+        "Id": "e221-6f6-c7cc-ebad"
+      },
+      {
+        "Id": "5932-17d0-4002-8a70"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_866f-5e08-73cd-61e9",
+    "Name": "Lieutenant in Phobos Armour",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3162"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2316"
+      },
+      {
+        "Id": "rule_2199"
+      },
+      {
+        "Id": "equipment_1777537524251"
+      },
+      {
+        "Id": "9105-d355-838c-4cbc"
+      },
+      {
+        "Id": "f690-8a62-db9c-e131"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_4d0f-7850-67ce-15b2",
+    "Name": "Librarian",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3163"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2315"
+      },
+      {
+        "Id": "rule_2201"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "af5-11ad-15bd-d4eb"
+      },
+      {
+        "Id": "343b-32b8-38b5-83fa"
+      },
+      {
+        "Id": "a79e-32cb-9ac4-5315"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_c911-97d4-97e8-59b6",
+    "Name": "Librarian in Phobos Armour",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3164"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2315"
+      },
+      {
+        "Id": "rule_2203"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "af5-11ad-15bd-d4eb"
+      },
+      {
+        "Id": "343b-32b8-38b5-83fa"
+      },
+      {
+        "Id": "a79e-32cb-9ac4-5315"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_f929-c63a-4613-80cf",
+    "Name": "Librarian in Terminator Armour",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3165"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2315"
+      },
+      {
+        "Id": "rule_2205"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "af5-11ad-15bd-d4eb"
+      },
+      {
+        "Id": "343b-32b8-38b5-83fa"
+      },
+      {
+        "Id": "a79e-32cb-9ac4-5315"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_95da-f4c-98fc-d4a5",
+    "Name": "Chaplain",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3166"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2317"
+      },
+      {
+        "Id": "rule_2322"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "cb64-ddb1-cbc3-3621"
+      },
+      {
+        "Id": "6386-4ecc-8309-5d8"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_9144-bb3-ae06-708",
+    "Name": "Chaplain in Terminator Armour",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3167"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2317"
+      },
+      {
+        "Id": "rule_2210"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "6386-4ecc-8309-5d8"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_8429-196c-3a3d-5459",
+    "Name": "Chaplain on Bike",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3168"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2317"
+      },
+      {
+        "Id": "rule_2212"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "cb64-ddb1-cbc3-3621"
+      },
+      {
+        "Id": "c221-788f-ced8-2"
+      },
+      {
+        "Id": "6386-4ecc-8309-5d8"
+      }
+    ],
+    "BaseId": "24"
+  },
+  {
+    "Id": "profile_b938-7b03-a5f9-321f",
+    "Name": "Chaplain with Jump Pack",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3169"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2317"
+      },
+      {
+        "Id": "rule_2214"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "6386-4ecc-8309-5d8"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_3eb3-b6eb-4967-a6b2",
+    "Name": "Techmarine",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3170"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2216"
+      },
+      {
+        "Id": "rule_2217"
+      },
+      {
+        "Id": "rule_2218"
+      },
+      {
+        "Id": "2aea-ded0-1a03-3242"
+      },
+      {
+        "Id": "934b-c485-e717-f1e6"
+      },
+      {
+        "Id": "2012-125d-f852-eb24"
+      },
+      {
+        "Id": "ba94-462a-52f0-ead"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_b021-99a0-2829-f73e",
+    "Name": "Lieutenant with Combi-weapon",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3171"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2223"
+      },
+      {
+        "Id": "rule_2224"
+      },
+      {
+        "Id": "rule_2225"
+      },
+      {
+        "Id": "equipment_1777539825386"
+      },
+      {
+        "Id": "f690-8a62-db9c-e131"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_3e73-5871-b359-b78",
+    "Name": "Apothecary",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3172"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2229"
+      },
+      {
+        "Id": "rule_2230"
+      },
+      {
+        "Id": "cb64-ddb1-cbc3-3621"
+      },
+      {
+        "Id": "46d1-c07b-d1bb-4778"
+      },
+      {
+        "Id": "equipment_1773683722796"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_6dda-2643-4010-1cb8",
+    "Name": "Apothecary Biologis",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3173"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2232"
+      },
+      {
+        "Id": "rule_2233"
+      },
+      {
+        "Id": "cb64-ddb1-cbc3-3621"
+      },
+      {
+        "Id": "equipment_1773683722796"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_ef41-38e-a6c5-a998",
+    "Name": "Ancient",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3174"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2323"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2235"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "837b-6918-767-152b"
+      },
+      {
+        "Id": "f4f9-d665-21c1-2727"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_bdf-a17c-a74c-4f",
+    "Name": "Bladeguard Ancient",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3175"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2323"
+      },
+      {
+        "Id": "rule_2237"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      },
+      {
+        "Id": "f4f9-d665-21c1-2727"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_46d4-cee9-bc-b12d",
+    "Name": "Ancient in Terminator Armor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3176"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2323"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2239"
+      },
+      {
+        "Id": "83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "equipment_1773681171364"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_fd84-6766-5354-6512",
+    "Name": "Judiciar",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3177"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2248"
+      },
+      {
+        "Id": "rule_2249"
+      },
+      {
+        "Id": "rule_2250",
+        "Info": "4+"
+      },
+      {
+        "Id": "cb64-ddb1-cbc3-3621"
+      },
+      {
+        "Id": "107-bb7c-6062-858c"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_c1ba-2289-ba1-9cb8",
+    "Name": "Captain",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3178"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2313"
+      },
+      {
+        "Id": "rule_2314"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "equipment_1777537524251"
+      },
+      {
+        "Id": "equipment_1773680848887"
+      },
+      {
+        "Id": "equipment_1777537727371"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_c14d-f472-9ab7-7a86",
+    "Name": "Astraeus",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3179"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2254"
+      },
+      {
+        "Id": "rule_2255"
+      },
+      {
+        "Id": "c6ce-de7a-b726-1206"
+      },
+      {
+        "Id": "4c32-80fc-7038-7980"
+      },
+      {
+        "Id": "2255-db43-ddd4-81ce"
+      },
+      {
+        "Id": "9111-913e-ec42-e830"
+      },
+      {
+        "Id": "88ed-cb52-5134-d404"
+      },
+      {
+        "Id": "fc19-a1ee-33c5-91e0"
+      },
+      {
+        "Id": "83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "edd0-6f1c-83e7-c0ea"
+      },
+      {
+        "Id": "a57b-cba0-79c1-5d71"
+      }
+    ],
+    "BaseId": "13"
+  },
+  {
+    "Id": "profile_1265-b6db-deda-bf9e",
+    "Name": "Thunderhawk Gunship",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3180"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_28"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2256"
+      },
+      {
+        "Id": "rule_2257"
+      },
+      {
+        "Id": "c575-490a-b087-a126"
+      },
+      {
+        "Id": "3983-e80e-9b43-544e"
+      },
+      {
+        "Id": "d97c-3914-9bbf-7786"
+      },
+      {
+        "Id": "19fd-be3c-6dc3-99b1"
+      },
+      {
+        "Id": "edd0-6f1c-83e7-c0ea"
+      },
+      {
+        "Id": "4c32-80fc-7038-7980"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_2135-960e-dbdb-3bee",
+    "Name": "Assault Intercessor Sergeant with Jump Pack",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3181"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2306"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profiles_1770288288408",
+    "Name": "Ancient Gadriel",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1770288335571"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rules_1770288448966"
+      },
+      {
+        "Id": "rules_1770288427480"
+      },
+      {
+        "Id": "837b-6918-767-152b"
+      },
+      {
+        "Id": "equipment_1770289187310"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1770302992824",
+    "Name": "Veteran Sergeant Metaurus",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1770302933080"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      },
+      {
+        "Id": "7bf3-e01c-dce7-60fd"
+      },
+      {
+        "Id": "rule_2096"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1770303762985",
+    "Name": "Gaius Silva",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1770303707950"
+      },
+      {
+        "Id": "equipment_1770303932114"
+      },
+      {
+        "Id": "rules_1770288464508"
+      },
+      {
+        "Id": "equipment_1770305560837"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1770305387713",
+    "Name": "Aemelia Minervas",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1770305331147"
+      },
+      {
+        "Id": "equipment_1770303932114"
+      },
+      {
+        "Id": "equipment_1770305560837"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1770305726331",
+    "Name": "Dainal Kornelius",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1770305673209"
+      },
+      {
+        "Id": "equipment_1770305814506"
+      },
+      {
+        "Id": "equipment_1770305906045"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1770306024843",
+    "Name": "Lucia Vestha",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1770305976014"
+      },
+      {
+        "Id": "equipment_1770303932114"
+      },
+      {
+        "Id": "equipment_1770289187310"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1770378666249",
+    "Name": "Company Heroes - Ancient",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1770378700656"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "837b-6918-767-152b"
+      },
+      {
+        "Id": "965e-b65e-20a1-32da"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1770379047228",
+    "Name": "Company Heroes - Company Champion",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1770378856822"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "2845-d04b-a871-1a7d"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1770379076472",
+    "Name": "Company Heroes - Company Veteran",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1770378926781"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "c23d-e030-307b-f383"
+      },
+      {
+        "Id": "965e-b65e-20a1-32da"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1770379106651",
+    "Name": "Company Heroes - Company Veteran",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1770378926781"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "ad63-8eaa-314d-a3cd"
+      },
+      {
+        "Id": "965e-b65e-20a1-32da"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771405437360",
+    "Name": "Assault Intercessor Sergeant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3119"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2084"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771406317037",
+    "Name": "Heavy Intercessor Sergeant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3120"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2085"
+      },
+      {
+        "Id": "7305-cc13-aeed-5de0"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "f4f9-d665-21c1-2727"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771406474389",
+    "Name": "Intercessor",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3117"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2081"
+      },
+      {
+        "Id": "rules_1784793797913",
+        "Info": ""
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "837b-6918-767-152b"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771406970310",
+    "Name": "Tactical Sergeant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3123"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2091"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "4540-ab37-18b4-3e56"
+      },
+      {
+        "Id": "83d0-18be-e1c5-72c5"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771410739398",
+    "Name": "Assault Intercessor with Jump Pack",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3181"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2130"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771410978298",
+    "Name": "Inceptor Sergeant",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3141"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2137"
+      },
+      {
+        "Id": "8a8e-4ca5-7864-3b9d"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771411169003",
+    "Name": "Scout Sergeant",
+    "Type": "Profile",
+    "BaseId": "8",
+    "Children": [
+      {
+        "Id": "statline_3124"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2092"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "4540-ab37-18b4-3e56"
+      },
+      {
+        "Id": "83d0-18be-e1c5-72c5"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771502642573",
+    "Name": "Vanguard Veteran Sergeant with Jump Pack",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3126"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2095"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "ca66-54e3-a097-55b0"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772709187217",
+    "Name": "Bladeguard Veteran Sergeant",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3125"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2094"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      },
+      {
+        "Id": "d989-8a4a-5e97-76e3"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773683232899",
+    "Name": "Incursor Sergeant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3122"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2089"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "f5b6-1c6f-a53a-66a1"
+      },
+      {
+        "Id": "10da-30e5-e130-efac"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773683415219",
+    "Name": "Infiltrator Sergeant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3121"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2086"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "c96a-77fd-1672-18dc"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777887971437",
+    "Name": "Aggressor Sergeant",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3128"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2107"
+      },
+      {
+        "Id": "dcee-66cc-b8c2-b464"
+      },
+      {
+        "Id": "8f43-5a49-353f-70a4"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777888883676",
+    "Name": "Assault Centurion Sergeant",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_3131"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2116"
+      },
+      {
+        "Id": "3ed8-a231-10ff-1ec6"
+      },
+      {
+        "Id": "ac05-6770-362b-2f97"
+      },
+      {
+        "Id": "ff26-fcab-318-9503"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777890506870",
+    "Name": "Devastator Centurion Sergeant",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_3132"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2119"
+      },
+      {
+        "Id": "0c7a-9ea1-abdc-2b6e"
+      },
+      {
+        "Id": "ff26-fcab-318-9503"
+      },
+      {
+        "Id": "bc41-607a-40a8-67fe"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777891236948",
+    "Name": "Desolation Sergeant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3149"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2150"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "47b3-3be5-84dd-88a3"
+      },
+      {
+        "Id": "eed7-334c-4e6c-69db"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777892067741",
+    "Name": "Eliminator Sergeant",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3146"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2145"
+      },
+      {
+        "Id": "rule_2146"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "fb52-d382-545d-d0ee"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777893075070",
+    "Name": "Eradicator Sergeant",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3147"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2147"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "ad4f-1356-e068-ec64"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777894332812",
+    "Name": "Hellblaster Sergeant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3145"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2144"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "261b-f672-2999-265f"
+      },
+      {
+        "Id": "a039-cb1b-3837-ba8b"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777894581911",
+    "Name": "Infernus Sergeant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3118"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2083"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "26cd-dd97-8f25-7ea7"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777895695235",
+    "Name": "Outrider Sergeant",
+    "Type": "Profile",
+    "BaseId": "24",
+    "Children": [
+      {
+        "Id": "statline_3139"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2132"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      },
+      {
+        "Id": "c221-788f-ced8-2"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777973695325",
+    "Name": "Reiver Sergeant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3127"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2103"
+      },
+      {
+        "Id": "rule_2104"
+      },
+      {
+        "Id": "2bfe-7c74-7b70-a846"
+      },
+      {
+        "Id": "23cb-a1c9-87be-722d"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777975076752",
+    "Name": "Sternguard Veteran Sergeant",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statlines_1777974907787"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2102"
+      },
+      {
+        "Id": "89ed-d67-d36e-8acf"
+      },
+      {
+        "Id": "6b39-9fea-b6a6-65b0"
+      },
+      {
+        "Id": "equipment_1773683722796"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777976523217",
+    "Name": "Suppressor Sergeant",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3140"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_2136"
+      },
+      {
+        "Id": "221f-e77a-2cff-9a21"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "equipment_1770306524489"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777976965936",
+    "Name": "Assault Terminator Sergeant",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3129"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_926"
+      },
+      {
+        "Id": "rule_2109"
+      },
+      {
+        "Id": "rule_956"
+      },
+      {
+        "Id": "equipment_1777976753303"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1777977100277",
+    "Name": "Terminator Sergeant",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3130"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_926"
+      },
+      {
+        "Id": "rule_2113"
+      },
+      {
+        "Id": "83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "3a24-34af-7558-5365"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1781004761730",
+    "Name": "Land Speeder",
+    "Type": "Profile",
+    "BaseId": null,
+    "Children": [
+      {
+        "Id": "statlines_1781004735298",
+        "Info": ""
+      },
+      {
+        "Id": "rule_23",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2514",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1781004374511",
+        "Info": ""
+      },
+      {
+        "Id": "7ab4-28bd-f037-6ac8",
+        "Info": ""
+      },
+      {
+        "Id": "a084-430f-5fb6-6ef2",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1781004724316",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1773683722796",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1781004968337",
+    "Name": "Eradicator",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3147",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2514",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1781004358508",
+        "Info": ""
+      },
+      {
+        "Id": "3104-8d29-e431-05d7",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1781005026336",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1770306524489",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1781005097741",
+    "Name": "Eradicator Sergeant",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3147",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2514",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1781004358508",
+        "Info": ""
+      },
+      {
+        "Id": "3104-8d29-e431-05d7",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1781005026336",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1770306524489",
+        "Info": ""
+      }
+    ]
+  }
+]

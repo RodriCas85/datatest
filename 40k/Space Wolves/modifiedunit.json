@@ -1,0 +1,125 @@
+[
+  {
+    "OptionId": "options_1773651599169",
+    "UnitId": "unit_c35a-6d78-2169-3d23",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "724c-11f2-3970-9223"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1773651638578",
+    "UnitId": "unit_c35a-6d78-2169-3d23",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "724c-11f2-3970-9223"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1773659515158",
+    "UnitId": "unit_bbdb-49fd-da4d-3d7a",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "8aaa-193b-2cb0-69a5"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1773659635132",
+    "UnitId": "unit_bbdb-49fd-da4d-3d7a",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "rule_943"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1773659676746",
+    "UnitId": "unit_bbdb-49fd-da4d-3d7a",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "rule_943"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1773659712346",
+    "UnitId": "unit_bbdb-49fd-da4d-3d7a",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "rule_943"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1773662210096",
+    "UnitId": "unit_d4ef-1ddc-1ed5-5156",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "5762-878b-231d-d044"
+      },
+      {
+        "Id": "rule_2096"
+      },
+      {
+        "Id": "rule_122"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1777992390054",
+    "UnitId": "unit_c125-1106-f06d-9682",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "724c-11f2-3970-9223"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1777992511403",
+    "UnitId": "unit_c125-1106-f06d-9682",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "724c-11f2-3970-9223"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1777992652758",
+    "UnitId": "unit_c125-1106-f06d-9682",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "77f0-d479-d1e8-1b2"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1777992682203",
+    "UnitId": "unit_c125-1106-f06d-9682",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "724c-11f2-3970-9223"
+      },
+      {
+        "Id": "equipment_1764245726995"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1777992747468",
+    "UnitId": "unit_c125-1106-f06d-9682",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "724c-11f2-3970-9223"
+      },
+      {
+        "Id": "77f0-d479-d1e8-1b2"
+      },
+      {
+        "Id": "equipment_1764245726995"
+      }
+    ]
+  }
+]
