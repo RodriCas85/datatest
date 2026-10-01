@@ -1,0 +1,78 @@
+[
+  {
+    "Id": "profile_ab0c-f1b5-f23b-8b1b",
+    "Name": "Adrax Agatone",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3107"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4103"
+      },
+      {
+        "Id": "rule_4104"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "415e-ed00-24ac-5c"
+      },
+      {
+        "Id": "f92a-9295-1bfb-2942"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_6fee-8346-c51-d116",
+    "Name": "Vulkan He'stan",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3108"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_2514"
+      },
+      {
+        "Id": "rule_4106"
+      },
+      {
+        "Id": "rule_4107"
+      },
+      {
+        "Id": "rule_4109"
+      },
+      {
+        "Id": "rule_2318",
+        "Info": "4+"
+      },
+      {
+        "Id": "equipment_1764763479838"
+      },
+      {
+        "Id": "ff1f-1295-8a6d-5d8b"
+      },
+      {
+        "Id": "2c29-73e2-c601-b9ec"
+      }
+    ],
+    "BaseId": "4"
+  }
+]
